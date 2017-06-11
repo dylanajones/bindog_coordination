@@ -35,19 +35,55 @@ class real_bindog(object):
 	def __init__(self, loc, pub):
 		self.loc = loc
 		self.pub = pub
+		self.status = "idle"
 
 	def giveGoalRow(self, row_num):
 		self.pub.publish(row_num)
 
 class simulator(object):
 
-	def __init__(self, row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub):
+	def __init__(self, row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub, cord_method):
 		self.row_locs = row_locs
 		self.bin_locs = bin_locs
 		self.real_bindog = real_bindog(bindog_loc, pub)
+		self.sim_bindogs = []
+
+		self.cord_method = cord_method
+
+		for i in range(0,2):
+			self.sim_bindogs.append(sim_bindog(sim_bindog_locs[i], i))
 
 	def step(self):
-		print "stepping"
+
+		idle_bots = self.getIdleBots()
+		if idle_bots != []:
+			print "doing coordination"
+
+	def getIdleBots(self):
+		idle_bots = []
+		
+		if self.real_bindog.status == "idle":
+			idle_bots.append(self.real_bindog)
+
+		for robot in self.sim_bindogs:
+			if robot.status == "idle":
+				idle_bots.append(robot)
+
+		return idle_bots
+
+	def greedyCord(self, idle_bots):
+		return 0
+
+	def yaweiCord(self, idle_bots):
+		return 0
+
+	def auctionCord(self, idle_bots):
+		return 0
+
+	def replanningCord(self, idle_bots):
+		return 0
+
+
 
 
 def callback(msg, args):
@@ -65,7 +101,10 @@ if __name__ == '__main__':
 	sim_bindog_locs = [[0,0],[0,0]]
 	bindog_loc = [0,0]
 
-	sim = simulator(row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub)
+	# 1 = greedy, 2 = yawei, 3 = auction, 4 = replanning
+	cord_method = 1
+
+	sim = simulator(row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub, cord_method)
 
 	sub = rospy.Subscriber('bindog_loc', String, callback, [sim])
 
