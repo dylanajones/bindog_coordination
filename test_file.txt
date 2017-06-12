@@ -1,0 +1,2210 @@
+Start of Header
+Real bindog start: [0, 0]
+Sim bindog starts: [0, 0], [0, 0], 
+Bin loc / fill levels: [4, 4], 0.327720232793| [5, 5], 0.229206670591| [-6, -6], 0.197257717891| 
+End of Header
+----------------
+Step num: 1
+Real bindog loc: [0, 0]
+Sim bindog loc: [1, 0], [1, 0], 
+Bin loc / fill levels: [4, 4], 0.327655772072| [5, 5], 0.229166713423| [-6, -6], 0.19722028809| 
+----------------
+Step num: 2
+Real bindog loc: [0, 0]
+Sim bindog loc: [2, 0], [2, 0], 
+Bin loc / fill levels: [4, 4], 0.32759131135| [5, 5], 0.229126756254| [-6, -6], 0.197182858289| 
+----------------
+Step num: 3
+Real bindog loc: [0, 0]
+Sim bindog loc: [3, 0], [3, 0], 
+Bin loc / fill levels: [4, 4], 0.327526850629| [5, 5], 0.229086799086| [-6, -6], 0.197145428488| 
+----------------
+Step num: 4
+Real bindog loc: [0, 0]
+Sim bindog loc: [4, 0], [4, 0], 
+Bin loc / fill levels: [4, 4], 0.327462389908| [5, 5], 0.229046841918| [-6, -6], 0.197107998687| 
+----------------
+Step num: 5
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 0], [4, 1], 
+Bin loc / fill levels: [4, 4], 0.327397929187| [5, 5], 0.22900688475| [-6, -6], 0.197070568885| 
+----------------
+Step num: 6
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 1], [4, 2], 
+Bin loc / fill levels: [4, 4], 0.327333468465| [5, 5], 0.228966927582| [-6, -6], 0.197033139084| 
+----------------
+Step num: 7
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 2], [4, 3], 
+Bin loc / fill levels: [4, 4], 0.327269007744| [5, 5], 0.228926970414| [-6, -6], 0.196995709283| 
+----------------
+Step num: 8
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 3], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.327204547023| [5, 5], 0.228887013246| [-6, -6], 0.196958279482| 
+----------------
+Step num: 9
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 4], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.327140086302| [5, 5], 0.228847056078| [-6, -6], 0.196920849681| 
+----------------
+Step num: 10
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32707562558| [5, 5], 0.22880709891| [-6, -6], 0.19688341988| 
+----------------
+Step num: 11
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.327011164859| [5, 5], 0.228767141742| [-6, -6], 0.196845990078| 
+----------------
+Step num: 12
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326946704138| [5, 5], 0.228727184574| [-6, -6], 0.196808560277| 
+----------------
+Step num: 13
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326882243417| [5, 5], 0.228687227405| [-6, -6], 0.196771130476| 
+----------------
+Step num: 14
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326817782695| [5, 5], 0.228647270237| [-6, -6], 0.196733700675| 
+----------------
+Step num: 15
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326753321974| [5, 5], 0.228607313069| [-6, -6], 0.196696270874| 
+----------------
+Step num: 16
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326688861253| [5, 5], 0.228567355901| [-6, -6], 0.196658841072| 
+----------------
+Step num: 17
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326624400532| [5, 5], 0.228527398733| [-6, -6], 0.196621411271| 
+----------------
+Step num: 18
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32655993981| [5, 5], 0.228487441565| [-6, -6], 0.19658398147| 
+----------------
+Step num: 19
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326495479089| [5, 5], 0.228447484397| [-6, -6], 0.196546551669| 
+----------------
+Step num: 20
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326431018368| [5, 5], 0.228407527229| [-6, -6], 0.196509121868| 
+----------------
+Step num: 21
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326366557647| [5, 5], 0.228367570061| [-6, -6], 0.196471692066| 
+----------------
+Step num: 22
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326302096925| [5, 5], 0.228327612893| [-6, -6], 0.196434262265| 
+----------------
+Step num: 23
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326237636204| [5, 5], 0.228287655725| [-6, -6], 0.196396832464| 
+----------------
+Step num: 24
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326173175483| [5, 5], 0.228247698556| [-6, -6], 0.196359402663| 
+----------------
+Step num: 25
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.326108714762| [5, 5], 0.228207741388| [-6, -6], 0.196321972862| 
+----------------
+Step num: 26
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32604425404| [5, 5], 0.22816778422| [-6, -6], 0.196284543061| 
+----------------
+Step num: 27
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325979793319| [5, 5], 0.228127827052| [-6, -6], 0.196247113259| 
+----------------
+Step num: 28
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325915332598| [5, 5], 0.228087869884| [-6, -6], 0.196209683458| 
+----------------
+Step num: 29
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325850871876| [5, 5], 0.228047912716| [-6, -6], 0.196172253657| 
+----------------
+Step num: 30
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325786411155| [5, 5], 0.228007955548| [-6, -6], 0.196134823856| 
+----------------
+Step num: 31
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325721950434| [5, 5], 0.22796799838| [-6, -6], 0.196097394055| 
+----------------
+Step num: 32
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325657489713| [5, 5], 0.227928041212| [-6, -6], 0.196059964253| 
+----------------
+Step num: 33
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325593028991| [5, 5], 0.227888084044| [-6, -6], 0.196022534452| 
+----------------
+Step num: 34
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32552856827| [5, 5], 0.227848126876| [-6, -6], 0.195985104651| 
+----------------
+Step num: 35
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325464107549| [5, 5], 0.227808169707| [-6, -6], 0.19594767485| 
+----------------
+Step num: 36
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325399646828| [5, 5], 0.227768212539| [-6, -6], 0.195910245049| 
+----------------
+Step num: 37
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325335186106| [5, 5], 0.227728255371| [-6, -6], 0.195872815247| 
+----------------
+Step num: 38
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325270725385| [5, 5], 0.227688298203| [-6, -6], 0.195835385446| 
+----------------
+Step num: 39
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325206264664| [5, 5], 0.227648341035| [-6, -6], 0.195797955645| 
+----------------
+Step num: 40
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325141803943| [5, 5], 0.227608383867| [-6, -6], 0.195760525844| 
+----------------
+Step num: 41
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.325077343221| [5, 5], 0.227568426699| [-6, -6], 0.195723096043| 
+----------------
+Step num: 42
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.3250128825| [5, 5], 0.227528469531| [-6, -6], 0.195685666242| 
+----------------
+Step num: 43
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324948421779| [5, 5], 0.227488512363| [-6, -6], 0.19564823644| 
+----------------
+Step num: 44
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324883961058| [5, 5], 0.227448555195| [-6, -6], 0.195610806639| 
+----------------
+Step num: 45
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324819500336| [5, 5], 0.227408598027| [-6, -6], 0.195573376838| 
+----------------
+Step num: 46
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324755039615| [5, 5], 0.227368640858| [-6, -6], 0.195535947037| 
+----------------
+Step num: 47
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324690578894| [5, 5], 0.22732868369| [-6, -6], 0.195498517236| 
+----------------
+Step num: 48
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324626118173| [5, 5], 0.227288726522| [-6, -6], 0.195461087434| 
+----------------
+Step num: 49
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324561657451| [5, 5], 0.227248769354| [-6, -6], 0.195423657633| 
+----------------
+Step num: 50
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32449719673| [5, 5], 0.227208812186| [-6, -6], 0.195386227832| 
+----------------
+Step num: 51
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324432736009| [5, 5], 0.227168855018| [-6, -6], 0.195348798031| 
+----------------
+Step num: 52
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324368275288| [5, 5], 0.22712889785| [-6, -6], 0.19531136823| 
+----------------
+Step num: 53
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324303814566| [5, 5], 0.227088940682| [-6, -6], 0.195273938428| 
+----------------
+Step num: 54
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324239353845| [5, 5], 0.227048983514| [-6, -6], 0.195236508627| 
+----------------
+Step num: 55
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324174893124| [5, 5], 0.227009026346| [-6, -6], 0.195199078826| 
+----------------
+Step num: 56
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324110432403| [5, 5], 0.226969069178| [-6, -6], 0.195161649025| 
+----------------
+Step num: 57
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.324045971681| [5, 5], 0.226929112009| [-6, -6], 0.195124219224| 
+----------------
+Step num: 58
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32398151096| [5, 5], 0.226889154841| [-6, -6], 0.195086789423| 
+----------------
+Step num: 59
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323917050239| [5, 5], 0.226849197673| [-6, -6], 0.195049359621| 
+----------------
+Step num: 60
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323852589518| [5, 5], 0.226809240505| [-6, -6], 0.19501192982| 
+----------------
+Step num: 61
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323788128796| [5, 5], 0.226769283337| [-6, -6], 0.194974500019| 
+----------------
+Step num: 62
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323723668075| [5, 5], 0.226729326169| [-6, -6], 0.194937070218| 
+----------------
+Step num: 63
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323659207354| [5, 5], 0.226689369001| [-6, -6], 0.194899640417| 
+----------------
+Step num: 64
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323594746633| [5, 5], 0.226649411833| [-6, -6], 0.194862210615| 
+----------------
+Step num: 65
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323530285911| [5, 5], 0.226609454665| [-6, -6], 0.194824780814| 
+----------------
+Step num: 66
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32346582519| [5, 5], 0.226569497497| [-6, -6], 0.194787351013| 
+----------------
+Step num: 67
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323401364469| [5, 5], 0.226529540329| [-6, -6], 0.194749921212| 
+----------------
+Step num: 68
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323336903748| [5, 5], 0.22648958316| [-6, -6], 0.194712491411| 
+----------------
+Step num: 69
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323272443026| [5, 5], 0.226449625992| [-6, -6], 0.194675061609| 
+----------------
+Step num: 70
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323207982305| [5, 5], 0.226409668824| [-6, -6], 0.194637631808| 
+----------------
+Step num: 71
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323143521584| [5, 5], 0.226369711656| [-6, -6], 0.194600202007| 
+----------------
+Step num: 72
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323079060863| [5, 5], 0.226329754488| [-6, -6], 0.194562772206| 
+----------------
+Step num: 73
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.323014600141| [5, 5], 0.22628979732| [-6, -6], 0.194525342405| 
+----------------
+Step num: 74
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32295013942| [5, 5], 0.226249840152| [-6, -6], 0.194487912604| 
+----------------
+Step num: 75
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322885678699| [5, 5], 0.226209882984| [-6, -6], 0.194450482802| 
+----------------
+Step num: 76
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322821217978| [5, 5], 0.226169925816| [-6, -6], 0.194413053001| 
+----------------
+Step num: 77
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322756757256| [5, 5], 0.226129968648| [-6, -6], 0.1943756232| 
+----------------
+Step num: 78
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322692296535| [5, 5], 0.22609001148| [-6, -6], 0.194338193399| 
+----------------
+Step num: 79
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322627835814| [5, 5], 0.226050054311| [-6, -6], 0.194300763598| 
+----------------
+Step num: 80
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322563375093| [5, 5], 0.226010097143| [-6, -6], 0.194263333796| 
+----------------
+Step num: 81
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322498914371| [5, 5], 0.225970139975| [-6, -6], 0.194225903995| 
+----------------
+Step num: 82
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32243445365| [5, 5], 0.225930182807| [-6, -6], 0.194188474194| 
+----------------
+Step num: 83
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322369992929| [5, 5], 0.225890225639| [-6, -6], 0.194151044393| 
+----------------
+Step num: 84
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322305532208| [5, 5], 0.225850268471| [-6, -6], 0.194113614592| 
+----------------
+Step num: 85
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322241071486| [5, 5], 0.225810311303| [-6, -6], 0.19407618479| 
+----------------
+Step num: 86
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322176610765| [5, 5], 0.225770354135| [-6, -6], 0.194038754989| 
+----------------
+Step num: 87
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322112150044| [5, 5], 0.225730396967| [-6, -6], 0.194001325188| 
+----------------
+Step num: 88
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.322047689323| [5, 5], 0.225690439799| [-6, -6], 0.193963895387| 
+----------------
+Step num: 89
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321983228601| [5, 5], 0.225650482631| [-6, -6], 0.193926465586| 
+----------------
+Step num: 90
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32191876788| [5, 5], 0.225610525462| [-6, -6], 0.193889035785| 
+----------------
+Step num: 91
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321854307159| [5, 5], 0.225570568294| [-6, -6], 0.193851605983| 
+----------------
+Step num: 92
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321789846437| [5, 5], 0.225530611126| [-6, -6], 0.193814176182| 
+----------------
+Step num: 93
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321725385716| [5, 5], 0.225490653958| [-6, -6], 0.193776746381| 
+----------------
+Step num: 94
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321660924995| [5, 5], 0.22545069679| [-6, -6], 0.19373931658| 
+----------------
+Step num: 95
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321596464274| [5, 5], 0.225410739622| [-6, -6], 0.193701886779| 
+----------------
+Step num: 96
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321532003552| [5, 5], 0.225370782454| [-6, -6], 0.193664456977| 
+----------------
+Step num: 97
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321467542831| [5, 5], 0.225330825286| [-6, -6], 0.193627027176| 
+----------------
+Step num: 98
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32140308211| [5, 5], 0.225290868118| [-6, -6], 0.193589597375| 
+----------------
+Step num: 99
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321338621389| [5, 5], 0.22525091095| [-6, -6], 0.193552167574| 
+----------------
+Step num: 100
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321274160667| [5, 5], 0.225210953782| [-6, -6], 0.193514737773| 
+----------------
+Step num: 101
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321209699946| [5, 5], 0.225170996613| [-6, -6], 0.193477307971| 
+----------------
+Step num: 102
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321145239225| [5, 5], 0.225131039445| [-6, -6], 0.19343987817| 
+----------------
+Step num: 103
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321080778504| [5, 5], 0.225091082277| [-6, -6], 0.193402448369| 
+----------------
+Step num: 104
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.321016317782| [5, 5], 0.225051125109| [-6, -6], 0.193365018568| 
+----------------
+Step num: 105
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320951857061| [5, 5], 0.225011167941| [-6, -6], 0.193327588767| 
+----------------
+Step num: 106
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32088739634| [5, 5], 0.224971210773| [-6, -6], 0.193290158966| 
+----------------
+Step num: 107
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320822935619| [5, 5], 0.224931253605| [-6, -6], 0.193252729164| 
+----------------
+Step num: 108
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320758474897| [5, 5], 0.224891296437| [-6, -6], 0.193215299363| 
+----------------
+Step num: 109
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320694014176| [5, 5], 0.224851339269| [-6, -6], 0.193177869562| 
+----------------
+Step num: 110
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320629553455| [5, 5], 0.224811382101| [-6, -6], 0.193140439761| 
+----------------
+Step num: 111
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320565092734| [5, 5], 0.224771424933| [-6, -6], 0.19310300996| 
+----------------
+Step num: 112
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320500632012| [5, 5], 0.224731467764| [-6, -6], 0.193065580158| 
+----------------
+Step num: 113
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320436171291| [5, 5], 0.224691510596| [-6, -6], 0.193028150357| 
+----------------
+Step num: 114
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.32037171057| [5, 5], 0.224651553428| [-6, -6], 0.192990720556| 
+----------------
+Step num: 115
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320307249849| [5, 5], 0.22461159626| [-6, -6], 0.192953290755| 
+----------------
+Step num: 116
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320242789127| [5, 5], 0.224571639092| [-6, -6], 0.192915860954| 
+----------------
+Step num: 117
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320178328406| [5, 5], 0.224531681924| [-6, -6], 0.192878431152| 
+----------------
+Step num: 118
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320113867685| [5, 5], 0.224491724756| [-6, -6], 0.192841001351| 
+----------------
+Step num: 119
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.320049406964| [5, 5], 0.224451767588| [-6, -6], 0.19280357155| 
+----------------
+Step num: 120
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319984946242| [5, 5], 0.22441181042| [-6, -6], 0.192766141749| 
+----------------
+Step num: 121
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319920485521| [5, 5], 0.224371853252| [-6, -6], 0.192728711948| 
+----------------
+Step num: 122
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.3198560248| [5, 5], 0.224331896084| [-6, -6], 0.192691282146| 
+----------------
+Step num: 123
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319791564079| [5, 5], 0.224291938915| [-6, -6], 0.192653852345| 
+----------------
+Step num: 124
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319727103357| [5, 5], 0.224251981747| [-6, -6], 0.192616422544| 
+----------------
+Step num: 125
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319662642636| [5, 5], 0.224212024579| [-6, -6], 0.192578992743| 
+----------------
+Step num: 126
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319598181915| [5, 5], 0.224172067411| [-6, -6], 0.192541562942| 
+----------------
+Step num: 127
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319533721194| [5, 5], 0.224132110243| [-6, -6], 0.192504133141| 
+----------------
+Step num: 128
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319469260472| [5, 5], 0.224092153075| [-6, -6], 0.192466703339| 
+----------------
+Step num: 129
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319404799751| [5, 5], 0.224052195907| [-6, -6], 0.192429273538| 
+----------------
+Step num: 130
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.31934033903| [5, 5], 0.224012238739| [-6, -6], 0.192391843737| 
+----------------
+Step num: 131
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319275878309| [5, 5], 0.223972281571| [-6, -6], 0.192354413936| 
+----------------
+Step num: 132
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319211417587| [5, 5], 0.223932324403| [-6, -6], 0.192316984135| 
+----------------
+Step num: 133
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319146956866| [5, 5], 0.223892367235| [-6, -6], 0.192279554333| 
+----------------
+Step num: 134
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319082496145| [5, 5], 0.223852410066| [-6, -6], 0.192242124532| 
+----------------
+Step num: 135
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.319018035424| [5, 5], 0.223812452898| [-6, -6], 0.192204694731| 
+----------------
+Step num: 136
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318953574702| [5, 5], 0.22377249573| [-6, -6], 0.19216726493| 
+----------------
+Step num: 137
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318889113981| [5, 5], 0.223732538562| [-6, -6], 0.192129835129| 
+----------------
+Step num: 138
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.31882465326| [5, 5], 0.223692581394| [-6, -6], 0.192092405327| 
+----------------
+Step num: 139
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318760192539| [5, 5], 0.223652624226| [-6, -6], 0.192054975526| 
+----------------
+Step num: 140
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318695731817| [5, 5], 0.223612667058| [-6, -6], 0.192017545725| 
+----------------
+Step num: 141
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318631271096| [5, 5], 0.22357270989| [-6, -6], 0.191980115924| 
+----------------
+Step num: 142
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318566810375| [5, 5], 0.223532752722| [-6, -6], 0.191942686123| 
+----------------
+Step num: 143
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318502349654| [5, 5], 0.223492795554| [-6, -6], 0.191905256322| 
+----------------
+Step num: 144
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318437888932| [5, 5], 0.223452838386| [-6, -6], 0.19186782652| 
+----------------
+Step num: 145
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318373428211| [5, 5], 0.223412881217| [-6, -6], 0.191830396719| 
+----------------
+Step num: 146
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.31830896749| [5, 5], 0.223372924049| [-6, -6], 0.191792966918| 
+----------------
+Step num: 147
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318244506769| [5, 5], 0.223332966881| [-6, -6], 0.191755537117| 
+----------------
+Step num: 148
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318180046047| [5, 5], 0.223293009713| [-6, -6], 0.191718107316| 
+----------------
+Step num: 149
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318115585326| [5, 5], 0.223253052545| [-6, -6], 0.191680677514| 
+----------------
+Step num: 150
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.318051124605| [5, 5], 0.223213095377| [-6, -6], 0.191643247713| 
+----------------
+Step num: 151
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317986663884| [5, 5], 0.223173138209| [-6, -6], 0.191605817912| 
+----------------
+Step num: 152
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317922203162| [5, 5], 0.223133181041| [-6, -6], 0.191568388111| 
+----------------
+Step num: 153
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317857742441| [5, 5], 0.223093223873| [-6, -6], 0.19153095831| 
+----------------
+Step num: 154
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.31779328172| [5, 5], 0.223053266705| [-6, -6], 0.191493528508| 
+----------------
+Step num: 155
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317728820998| [5, 5], 0.223013309537| [-6, -6], 0.191456098707| 
+----------------
+Step num: 156
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317664360277| [5, 5], 0.222973352368| [-6, -6], 0.191418668906| 
+----------------
+Step num: 157
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317599899556| [5, 5], 0.2229333952| [-6, -6], 0.191381239105| 
+----------------
+Step num: 158
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317535438835| [5, 5], 0.222893438032| [-6, -6], 0.191343809304| 
+----------------
+Step num: 159
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317470978113| [5, 5], 0.222853480864| [-6, -6], 0.191306379503| 
+----------------
+Step num: 160
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317406517392| [5, 5], 0.222813523696| [-6, -6], 0.191268949701| 
+----------------
+Step num: 161
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317342056671| [5, 5], 0.222773566528| [-6, -6], 0.1912315199| 
+----------------
+Step num: 162
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.31727759595| [5, 5], 0.22273360936| [-6, -6], 0.191194090099| 
+----------------
+Step num: 163
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317213135228| [5, 5], 0.222693652192| [-6, -6], 0.191156660298| 
+----------------
+Step num: 164
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317148674507| [5, 5], 0.222653695024| [-6, -6], 0.191119230497| 
+----------------
+Step num: 165
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317084213786| [5, 5], 0.222613737856| [-6, -6], 0.191081800695| 
+----------------
+Step num: 166
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.317019753065| [5, 5], 0.222573780688| [-6, -6], 0.191044370894| 
+----------------
+Step num: 167
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316955292343| [5, 5], 0.222533823519| [-6, -6], 0.191006941093| 
+----------------
+Step num: 168
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316890831622| [5, 5], 0.222493866351| [-6, -6], 0.190969511292| 
+----------------
+Step num: 169
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316826370901| [5, 5], 0.222453909183| [-6, -6], 0.190932081491| 
+----------------
+Step num: 170
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.31676191018| [5, 5], 0.222413952015| [-6, -6], 0.190894651689| 
+----------------
+Step num: 171
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316697449458| [5, 5], 0.222373994847| [-6, -6], 0.190857221888| 
+----------------
+Step num: 172
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316632988737| [5, 5], 0.222334037679| [-6, -6], 0.190819792087| 
+----------------
+Step num: 173
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316568528016| [5, 5], 0.222294080511| [-6, -6], 0.190782362286| 
+----------------
+Step num: 174
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316504067295| [5, 5], 0.222254123343| [-6, -6], 0.190744932485| 
+----------------
+Step num: 175
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316439606573| [5, 5], 0.222214166175| [-6, -6], 0.190707502684| 
+----------------
+Step num: 176
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316375145852| [5, 5], 0.222174209007| [-6, -6], 0.190670072882| 
+----------------
+Step num: 177
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316310685131| [5, 5], 0.222134251839| [-6, -6], 0.190632643081| 
+----------------
+Step num: 178
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.31624622441| [5, 5], 0.22209429467| [-6, -6], 0.19059521328| 
+----------------
+Step num: 179
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316181763688| [5, 5], 0.222054337502| [-6, -6], 0.190557783479| 
+----------------
+Step num: 180
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316117302967| [5, 5], 0.222014380334| [-6, -6], 0.190520353678| 
+----------------
+Step num: 181
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.316052842246| [5, 5], 0.221974423166| [-6, -6], 0.190482923876| 
+----------------
+Step num: 182
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315988381525| [5, 5], 0.221934465998| [-6, -6], 0.190445494075| 
+----------------
+Step num: 183
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315923920803| [5, 5], 0.22189450883| [-6, -6], 0.190408064274| 
+----------------
+Step num: 184
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315859460082| [5, 5], 0.221854551662| [-6, -6], 0.190370634473| 
+----------------
+Step num: 185
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315794999361| [5, 5], 0.221814594494| [-6, -6], 0.190333204672| 
+----------------
+Step num: 186
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.31573053864| [5, 5], 0.221774637326| [-6, -6], 0.19029577487| 
+----------------
+Step num: 187
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315666077918| [5, 5], 0.221734680158| [-6, -6], 0.190258345069| 
+----------------
+Step num: 188
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315601617197| [5, 5], 0.22169472299| [-6, -6], 0.190220915268| 
+----------------
+Step num: 189
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315537156476| [5, 5], 0.221654765821| [-6, -6], 0.190183485467| 
+----------------
+Step num: 190
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315472695755| [5, 5], 0.221614808653| [-6, -6], 0.190146055666| 
+----------------
+Step num: 191
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315408235033| [5, 5], 0.221574851485| [-6, -6], 0.190108625865| 
+----------------
+Step num: 192
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315343774312| [5, 5], 0.221534894317| [-6, -6], 0.190071196063| 
+----------------
+Step num: 193
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315279313591| [5, 5], 0.221494937149| [-6, -6], 0.190033766262| 
+----------------
+Step num: 194
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.31521485287| [5, 5], 0.221454979981| [-6, -6], 0.189996336461| 
+----------------
+Step num: 195
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315150392148| [5, 5], 0.221415022813| [-6, -6], 0.18995890666| 
+----------------
+Step num: 196
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315085931427| [5, 5], 0.221375065645| [-6, -6], 0.189921476859| 
+----------------
+Step num: 197
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.315021470706| [5, 5], 0.221335108477| [-6, -6], 0.189884047057| 
+----------------
+Step num: 198
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314957009985| [5, 5], 0.221295151309| [-6, -6], 0.189846617256| 
+----------------
+Step num: 199
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314892549263| [5, 5], 0.221255194141| [-6, -6], 0.189809187455| 
+----------------
+Step num: 200
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314828088542| [5, 5], 0.221215236972| [-6, -6], 0.189771757654| 
+----------------
+Step num: 201
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314763627821| [5, 5], 0.221175279804| [-6, -6], 0.189734327853| 
+----------------
+Step num: 202
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.3146991671| [5, 5], 0.221135322636| [-6, -6], 0.189696898051| 
+----------------
+Step num: 203
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314634706378| [5, 5], 0.221095365468| [-6, -6], 0.18965946825| 
+----------------
+Step num: 204
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314570245657| [5, 5], 0.2210554083| [-6, -6], 0.189622038449| 
+----------------
+Step num: 205
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314505784936| [5, 5], 0.221015451132| [-6, -6], 0.189584608648| 
+----------------
+Step num: 206
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314441324215| [5, 5], 0.220975493964| [-6, -6], 0.189547178847| 
+----------------
+Step num: 207
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314376863493| [5, 5], 0.220935536796| [-6, -6], 0.189509749046| 
+----------------
+Step num: 208
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314312402772| [5, 5], 0.220895579628| [-6, -6], 0.189472319244| 
+----------------
+Step num: 209
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314247942051| [5, 5], 0.22085562246| [-6, -6], 0.189434889443| 
+----------------
+Step num: 210
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.31418348133| [5, 5], 0.220815665292| [-6, -6], 0.189397459642| 
+----------------
+Step num: 211
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314119020608| [5, 5], 0.220775708123| [-6, -6], 0.189360029841| 
+----------------
+Step num: 212
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.314054559887| [5, 5], 0.220735750955| [-6, -6], 0.18932260004| 
+----------------
+Step num: 213
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313990099166| [5, 5], 0.220695793787| [-6, -6], 0.189285170238| 
+----------------
+Step num: 214
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313925638444| [5, 5], 0.220655836619| [-6, -6], 0.189247740437| 
+----------------
+Step num: 215
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313861177723| [5, 5], 0.220615879451| [-6, -6], 0.189210310636| 
+----------------
+Step num: 216
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313796717002| [5, 5], 0.220575922283| [-6, -6], 0.189172880835| 
+----------------
+Step num: 217
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313732256281| [5, 5], 0.220535965115| [-6, -6], 0.189135451034| 
+----------------
+Step num: 218
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313667795559| [5, 5], 0.220496007947| [-6, -6], 0.189098021232| 
+----------------
+Step num: 219
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313603334838| [5, 5], 0.220456050779| [-6, -6], 0.189060591431| 
+----------------
+Step num: 220
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313538874117| [5, 5], 0.220416093611| [-6, -6], 0.18902316163| 
+----------------
+Step num: 221
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313474413396| [5, 5], 0.220376136443| [-6, -6], 0.188985731829| 
+----------------
+Step num: 222
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313409952674| [5, 5], 0.220336179274| [-6, -6], 0.188948302028| 
+----------------
+Step num: 223
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313345491953| [5, 5], 0.220296222106| [-6, -6], 0.188910872227| 
+----------------
+Step num: 224
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313281031232| [5, 5], 0.220256264938| [-6, -6], 0.188873442425| 
+----------------
+Step num: 225
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313216570511| [5, 5], 0.22021630777| [-6, -6], 0.188836012624| 
+----------------
+Step num: 226
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313152109789| [5, 5], 0.220176350602| [-6, -6], 0.188798582823| 
+----------------
+Step num: 227
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313087649068| [5, 5], 0.220136393434| [-6, -6], 0.188761153022| 
+----------------
+Step num: 228
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.313023188347| [5, 5], 0.220096436266| [-6, -6], 0.188723723221| 
+----------------
+Step num: 229
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312958727626| [5, 5], 0.220056479098| [-6, -6], 0.188686293419| 
+----------------
+Step num: 230
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312894266904| [5, 5], 0.22001652193| [-6, -6], 0.188648863618| 
+----------------
+Step num: 231
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312829806183| [5, 5], 0.219976564762| [-6, -6], 0.188611433817| 
+----------------
+Step num: 232
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312765345462| [5, 5], 0.219936607594| [-6, -6], 0.188574004016| 
+----------------
+Step num: 233
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312700884741| [5, 5], 0.219896650425| [-6, -6], 0.188536574215| 
+----------------
+Step num: 234
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312636424019| [5, 5], 0.219856693257| [-6, -6], 0.188499144413| 
+----------------
+Step num: 235
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312571963298| [5, 5], 0.219816736089| [-6, -6], 0.188461714612| 
+----------------
+Step num: 236
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312507502577| [5, 5], 0.219776778921| [-6, -6], 0.188424284811| 
+----------------
+Step num: 237
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312443041856| [5, 5], 0.219736821753| [-6, -6], 0.18838685501| 
+----------------
+Step num: 238
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312378581134| [5, 5], 0.219696864585| [-6, -6], 0.188349425209| 
+----------------
+Step num: 239
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312314120413| [5, 5], 0.219656907417| [-6, -6], 0.188311995408| 
+----------------
+Step num: 240
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312249659692| [5, 5], 0.219616950249| [-6, -6], 0.188274565606| 
+----------------
+Step num: 241
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312185198971| [5, 5], 0.219576993081| [-6, -6], 0.188237135805| 
+----------------
+Step num: 242
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312120738249| [5, 5], 0.219537035913| [-6, -6], 0.188199706004| 
+----------------
+Step num: 243
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.312056277528| [5, 5], 0.219497078745| [-6, -6], 0.188162276203| 
+----------------
+Step num: 244
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311991816807| [5, 5], 0.219457121576| [-6, -6], 0.188124846402| 
+----------------
+Step num: 245
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311927356086| [5, 5], 0.219417164408| [-6, -6], 0.1880874166| 
+----------------
+Step num: 246
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311862895364| [5, 5], 0.21937720724| [-6, -6], 0.188049986799| 
+----------------
+Step num: 247
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311798434643| [5, 5], 0.219337250072| [-6, -6], 0.188012556998| 
+----------------
+Step num: 248
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311733973922| [5, 5], 0.219297292904| [-6, -6], 0.187975127197| 
+----------------
+Step num: 249
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311669513201| [5, 5], 0.219257335736| [-6, -6], 0.187937697396| 
+----------------
+Step num: 250
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311605052479| [5, 5], 0.219217378568| [-6, -6], 0.187900267594| 
+----------------
+Step num: 251
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311540591758| [5, 5], 0.2191774214| [-6, -6], 0.187862837793| 
+----------------
+Step num: 252
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311476131037| [5, 5], 0.219137464232| [-6, -6], 0.187825407992| 
+----------------
+Step num: 253
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311411670316| [5, 5], 0.219097507064| [-6, -6], 0.187787978191| 
+----------------
+Step num: 254
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311347209594| [5, 5], 0.219057549896| [-6, -6], 0.18775054839| 
+----------------
+Step num: 255
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311282748873| [5, 5], 0.219017592727| [-6, -6], 0.187713118588| 
+----------------
+Step num: 256
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311218288152| [5, 5], 0.218977635559| [-6, -6], 0.187675688787| 
+----------------
+Step num: 257
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311153827431| [5, 5], 0.218937678391| [-6, -6], 0.187638258986| 
+----------------
+Step num: 258
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311089366709| [5, 5], 0.218897721223| [-6, -6], 0.187600829185| 
+----------------
+Step num: 259
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.311024905988| [5, 5], 0.218857764055| [-6, -6], 0.187563399384| 
+----------------
+Step num: 260
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310960445267| [5, 5], 0.218817806887| [-6, -6], 0.187525969583| 
+----------------
+Step num: 261
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310895984546| [5, 5], 0.218777849719| [-6, -6], 0.187488539781| 
+----------------
+Step num: 262
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310831523824| [5, 5], 0.218737892551| [-6, -6], 0.18745110998| 
+----------------
+Step num: 263
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310767063103| [5, 5], 0.218697935383| [-6, -6], 0.187413680179| 
+----------------
+Step num: 264
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310702602382| [5, 5], 0.218657978215| [-6, -6], 0.187376250378| 
+----------------
+Step num: 265
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310638141661| [5, 5], 0.218618021047| [-6, -6], 0.187338820577| 
+----------------
+Step num: 266
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310573680939| [5, 5], 0.218578063878| [-6, -6], 0.187301390775| 
+----------------
+Step num: 267
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310509220218| [5, 5], 0.21853810671| [-6, -6], 0.187263960974| 
+----------------
+Step num: 268
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310444759497| [5, 5], 0.218498149542| [-6, -6], 0.187226531173| 
+----------------
+Step num: 269
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310380298776| [5, 5], 0.218458192374| [-6, -6], 0.187189101372| 
+----------------
+Step num: 270
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310315838054| [5, 5], 0.218418235206| [-6, -6], 0.187151671571| 
+----------------
+Step num: 271
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310251377333| [5, 5], 0.218378278038| [-6, -6], 0.187114241769| 
+----------------
+Step num: 272
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310186916612| [5, 5], 0.21833832087| [-6, -6], 0.187076811968| 
+----------------
+Step num: 273
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310122455891| [5, 5], 0.218298363702| [-6, -6], 0.187039382167| 
+----------------
+Step num: 274
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.310057995169| [5, 5], 0.218258406534| [-6, -6], 0.187001952366| 
+----------------
+Step num: 275
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309993534448| [5, 5], 0.218218449366| [-6, -6], 0.186964522565| 
+----------------
+Step num: 276
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309929073727| [5, 5], 0.218178492198| [-6, -6], 0.186927092764| 
+----------------
+Step num: 277
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309864613005| [5, 5], 0.21813853503| [-6, -6], 0.186889662962| 
+----------------
+Step num: 278
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309800152284| [5, 5], 0.218098577861| [-6, -6], 0.186852233161| 
+----------------
+Step num: 279
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309735691563| [5, 5], 0.218058620693| [-6, -6], 0.18681480336| 
+----------------
+Step num: 280
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309671230842| [5, 5], 0.218018663525| [-6, -6], 0.186777373559| 
+----------------
+Step num: 281
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30960677012| [5, 5], 0.217978706357| [-6, -6], 0.186739943758| 
+----------------
+Step num: 282
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309542309399| [5, 5], 0.217938749189| [-6, -6], 0.186702513956| 
+----------------
+Step num: 283
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309477848678| [5, 5], 0.217898792021| [-6, -6], 0.186665084155| 
+----------------
+Step num: 284
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309413387957| [5, 5], 0.217858834853| [-6, -6], 0.186627654354| 
+----------------
+Step num: 285
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309348927235| [5, 5], 0.217818877685| [-6, -6], 0.186590224553| 
+----------------
+Step num: 286
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309284466514| [5, 5], 0.217778920517| [-6, -6], 0.186552794752| 
+----------------
+Step num: 287
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309220005793| [5, 5], 0.217738963349| [-6, -6], 0.18651536495| 
+----------------
+Step num: 288
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309155545072| [5, 5], 0.217699006181| [-6, -6], 0.186477935149| 
+----------------
+Step num: 289
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30909108435| [5, 5], 0.217659049012| [-6, -6], 0.186440505348| 
+----------------
+Step num: 290
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.309026623629| [5, 5], 0.217619091844| [-6, -6], 0.186403075547| 
+----------------
+Step num: 291
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308962162908| [5, 5], 0.217579134676| [-6, -6], 0.186365645746| 
+----------------
+Step num: 292
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308897702187| [5, 5], 0.217539177508| [-6, -6], 0.186328215945| 
+----------------
+Step num: 293
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308833241465| [5, 5], 0.21749922034| [-6, -6], 0.186290786143| 
+----------------
+Step num: 294
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308768780744| [5, 5], 0.217459263172| [-6, -6], 0.186253356342| 
+----------------
+Step num: 295
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308704320023| [5, 5], 0.217419306004| [-6, -6], 0.186215926541| 
+----------------
+Step num: 296
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308639859302| [5, 5], 0.217379348836| [-6, -6], 0.18617849674| 
+----------------
+Step num: 297
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30857539858| [5, 5], 0.217339391668| [-6, -6], 0.186141066939| 
+----------------
+Step num: 298
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308510937859| [5, 5], 0.2172994345| [-6, -6], 0.186103637137| 
+----------------
+Step num: 299
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308446477138| [5, 5], 0.217259477332| [-6, -6], 0.186066207336| 
+----------------
+Step num: 300
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308382016417| [5, 5], 0.217219520163| [-6, -6], 0.186028777535| 
+----------------
+Step num: 301
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308317555695| [5, 5], 0.217179562995| [-6, -6], 0.185991347734| 
+----------------
+Step num: 302
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308253094974| [5, 5], 0.217139605827| [-6, -6], 0.185953917933| 
+----------------
+Step num: 303
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308188634253| [5, 5], 0.217099648659| [-6, -6], 0.185916488131| 
+----------------
+Step num: 304
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.308124173532| [5, 5], 0.217059691491| [-6, -6], 0.18587905833| 
+----------------
+Step num: 305
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30805971281| [5, 5], 0.217019734323| [-6, -6], 0.185841628529| 
+----------------
+Step num: 306
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307995252089| [5, 5], 0.216979777155| [-6, -6], 0.185804198728| 
+----------------
+Step num: 307
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307930791368| [5, 5], 0.216939819987| [-6, -6], 0.185766768927| 
+----------------
+Step num: 308
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307866330647| [5, 5], 0.216899862819| [-6, -6], 0.185729339126| 
+----------------
+Step num: 309
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307801869925| [5, 5], 0.216859905651| [-6, -6], 0.185691909324| 
+----------------
+Step num: 310
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307737409204| [5, 5], 0.216819948483| [-6, -6], 0.185654479523| 
+----------------
+Step num: 311
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307672948483| [5, 5], 0.216779991314| [-6, -6], 0.185617049722| 
+----------------
+Step num: 312
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307608487762| [5, 5], 0.216740034146| [-6, -6], 0.185579619921| 
+----------------
+Step num: 313
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30754402704| [5, 5], 0.216700076978| [-6, -6], 0.18554219012| 
+----------------
+Step num: 314
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307479566319| [5, 5], 0.21666011981| [-6, -6], 0.185504760318| 
+----------------
+Step num: 315
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307415105598| [5, 5], 0.216620162642| [-6, -6], 0.185467330517| 
+----------------
+Step num: 316
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307350644877| [5, 5], 0.216580205474| [-6, -6], 0.185429900716| 
+----------------
+Step num: 317
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307286184155| [5, 5], 0.216540248306| [-6, -6], 0.185392470915| 
+----------------
+Step num: 318
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307221723434| [5, 5], 0.216500291138| [-6, -6], 0.185355041114| 
+----------------
+Step num: 319
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307157262713| [5, 5], 0.21646033397| [-6, -6], 0.185317611312| 
+----------------
+Step num: 320
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.307092801992| [5, 5], 0.216420376802| [-6, -6], 0.185280181511| 
+----------------
+Step num: 321
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30702834127| [5, 5], 0.216380419634| [-6, -6], 0.18524275171| 
+----------------
+Step num: 322
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306963880549| [5, 5], 0.216340462465| [-6, -6], 0.185205321909| 
+----------------
+Step num: 323
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306899419828| [5, 5], 0.216300505297| [-6, -6], 0.185167892108| 
+----------------
+Step num: 324
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306834959107| [5, 5], 0.216260548129| [-6, -6], 0.185130462307| 
+----------------
+Step num: 325
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306770498385| [5, 5], 0.216220590961| [-6, -6], 0.185093032505| 
+----------------
+Step num: 326
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306706037664| [5, 5], 0.216180633793| [-6, -6], 0.185055602704| 
+----------------
+Step num: 327
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306641576943| [5, 5], 0.216140676625| [-6, -6], 0.185018172903| 
+----------------
+Step num: 328
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306577116222| [5, 5], 0.216100719457| [-6, -6], 0.184980743102| 
+----------------
+Step num: 329
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.3065126555| [5, 5], 0.216060762289| [-6, -6], 0.184943313301| 
+----------------
+Step num: 330
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306448194779| [5, 5], 0.216020805121| [-6, -6], 0.184905883499| 
+----------------
+Step num: 331
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306383734058| [5, 5], 0.215980847953| [-6, -6], 0.184868453698| 
+----------------
+Step num: 332
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306319273337| [5, 5], 0.215940890785| [-6, -6], 0.184831023897| 
+----------------
+Step num: 333
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306254812615| [5, 5], 0.215900933616| [-6, -6], 0.184793594096| 
+----------------
+Step num: 334
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306190351894| [5, 5], 0.215860976448| [-6, -6], 0.184756164295| 
+----------------
+Step num: 335
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306125891173| [5, 5], 0.21582101928| [-6, -6], 0.184718734493| 
+----------------
+Step num: 336
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.306061430452| [5, 5], 0.215781062112| [-6, -6], 0.184681304692| 
+----------------
+Step num: 337
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30599696973| [5, 5], 0.215741104944| [-6, -6], 0.184643874891| 
+----------------
+Step num: 338
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305932509009| [5, 5], 0.215701147776| [-6, -6], 0.18460644509| 
+----------------
+Step num: 339
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305868048288| [5, 5], 0.215661190608| [-6, -6], 0.184569015289| 
+----------------
+Step num: 340
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305803587566| [5, 5], 0.21562123344| [-6, -6], 0.184531585488| 
+----------------
+Step num: 341
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305739126845| [5, 5], 0.215581276272| [-6, -6], 0.184494155686| 
+----------------
+Step num: 342
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305674666124| [5, 5], 0.215541319104| [-6, -6], 0.184456725885| 
+----------------
+Step num: 343
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305610205403| [5, 5], 0.215501361936| [-6, -6], 0.184419296084| 
+----------------
+Step num: 344
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305545744681| [5, 5], 0.215461404767| [-6, -6], 0.184381866283| 
+----------------
+Step num: 345
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30548128396| [5, 5], 0.215421447599| [-6, -6], 0.184344436482| 
+----------------
+Step num: 346
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305416823239| [5, 5], 0.215381490431| [-6, -6], 0.18430700668| 
+----------------
+Step num: 347
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305352362518| [5, 5], 0.215341533263| [-6, -6], 0.184269576879| 
+----------------
+Step num: 348
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305287901796| [5, 5], 0.215301576095| [-6, -6], 0.184232147078| 
+----------------
+Step num: 349
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305223441075| [5, 5], 0.215261618927| [-6, -6], 0.184194717277| 
+----------------
+Step num: 350
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305158980354| [5, 5], 0.215221661759| [-6, -6], 0.184157287476| 
+----------------
+Step num: 351
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305094519633| [5, 5], 0.215181704591| [-6, -6], 0.184119857674| 
+----------------
+Step num: 352
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.305030058911| [5, 5], 0.215141747423| [-6, -6], 0.184082427873| 
+----------------
+Step num: 353
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30496559819| [5, 5], 0.215101790255| [-6, -6], 0.184044998072| 
+----------------
+Step num: 354
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304901137469| [5, 5], 0.215061833087| [-6, -6], 0.184007568271| 
+----------------
+Step num: 355
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304836676748| [5, 5], 0.215021875918| [-6, -6], 0.18397013847| 
+----------------
+Step num: 356
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304772216026| [5, 5], 0.21498191875| [-6, -6], 0.183932708669| 
+----------------
+Step num: 357
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304707755305| [5, 5], 0.214941961582| [-6, -6], 0.183895278867| 
+----------------
+Step num: 358
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304643294584| [5, 5], 0.214902004414| [-6, -6], 0.183857849066| 
+----------------
+Step num: 359
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304578833863| [5, 5], 0.214862047246| [-6, -6], 0.183820419265| 
+----------------
+Step num: 360
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304514373141| [5, 5], 0.214822090078| [-6, -6], 0.183782989464| 
+----------------
+Step num: 361
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30444991242| [5, 5], 0.21478213291| [-6, -6], 0.183745559663| 
+----------------
+Step num: 362
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304385451699| [5, 5], 0.214742175742| [-6, -6], 0.183708129861| 
+----------------
+Step num: 363
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304320990978| [5, 5], 0.214702218574| [-6, -6], 0.18367070006| 
+----------------
+Step num: 364
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304256530256| [5, 5], 0.214662261406| [-6, -6], 0.183633270259| 
+----------------
+Step num: 365
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304192069535| [5, 5], 0.214622304238| [-6, -6], 0.183595840458| 
+----------------
+Step num: 366
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304127608814| [5, 5], 0.214582347069| [-6, -6], 0.183558410657| 
+----------------
+Step num: 367
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.304063148093| [5, 5], 0.214542389901| [-6, -6], 0.183520980855| 
+----------------
+Step num: 368
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303998687371| [5, 5], 0.214502432733| [-6, -6], 0.183483551054| 
+----------------
+Step num: 369
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30393422665| [5, 5], 0.214462475565| [-6, -6], 0.183446121253| 
+----------------
+Step num: 370
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303869765929| [5, 5], 0.214422518397| [-6, -6], 0.183408691452| 
+----------------
+Step num: 371
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303805305208| [5, 5], 0.214382561229| [-6, -6], 0.183371261651| 
+----------------
+Step num: 372
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303740844486| [5, 5], 0.214342604061| [-6, -6], 0.18333383185| 
+----------------
+Step num: 373
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303676383765| [5, 5], 0.214302646893| [-6, -6], 0.183296402048| 
+----------------
+Step num: 374
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303611923044| [5, 5], 0.214262689725| [-6, -6], 0.183258972247| 
+----------------
+Step num: 375
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303547462323| [5, 5], 0.214222732557| [-6, -6], 0.183221542446| 
+----------------
+Step num: 376
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303483001601| [5, 5], 0.214182775389| [-6, -6], 0.183184112645| 
+----------------
+Step num: 377
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30341854088| [5, 5], 0.21414281822| [-6, -6], 0.183146682844| 
+----------------
+Step num: 378
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303354080159| [5, 5], 0.214102861052| [-6, -6], 0.183109253042| 
+----------------
+Step num: 379
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303289619438| [5, 5], 0.214062903884| [-6, -6], 0.183071823241| 
+----------------
+Step num: 380
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303225158716| [5, 5], 0.214022946716| [-6, -6], 0.18303439344| 
+----------------
+Step num: 381
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303160697995| [5, 5], 0.213982989548| [-6, -6], 0.182996963639| 
+----------------
+Step num: 382
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303096237274| [5, 5], 0.21394303238| [-6, -6], 0.182959533838| 
+----------------
+Step num: 383
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.303031776553| [5, 5], 0.213903075212| [-6, -6], 0.182922104036| 
+----------------
+Step num: 384
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302967315831| [5, 5], 0.213863118044| [-6, -6], 0.182884674235| 
+----------------
+Step num: 385
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30290285511| [5, 5], 0.213823160876| [-6, -6], 0.182847244434| 
+----------------
+Step num: 386
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302838394389| [5, 5], 0.213783203708| [-6, -6], 0.182809814633| 
+----------------
+Step num: 387
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302773933668| [5, 5], 0.21374324654| [-6, -6], 0.182772384832| 
+----------------
+Step num: 388
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302709472946| [5, 5], 0.213703289371| [-6, -6], 0.182734955031| 
+----------------
+Step num: 389
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302645012225| [5, 5], 0.213663332203| [-6, -6], 0.182697525229| 
+----------------
+Step num: 390
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302580551504| [5, 5], 0.213623375035| [-6, -6], 0.182660095428| 
+----------------
+Step num: 391
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302516090783| [5, 5], 0.213583417867| [-6, -6], 0.182622665627| 
+----------------
+Step num: 392
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302451630061| [5, 5], 0.213543460699| [-6, -6], 0.182585235826| 
+----------------
+Step num: 393
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30238716934| [5, 5], 0.213503503531| [-6, -6], 0.182547806025| 
+----------------
+Step num: 394
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302322708619| [5, 5], 0.213463546363| [-6, -6], 0.182510376223| 
+----------------
+Step num: 395
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302258247898| [5, 5], 0.213423589195| [-6, -6], 0.182472946422| 
+----------------
+Step num: 396
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302193787176| [5, 5], 0.213383632027| [-6, -6], 0.182435516621| 
+----------------
+Step num: 397
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302129326455| [5, 5], 0.213343674859| [-6, -6], 0.18239808682| 
+----------------
+Step num: 398
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302064865734| [5, 5], 0.213303717691| [-6, -6], 0.182360657019| 
+----------------
+Step num: 399
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.302000405012| [5, 5], 0.213263760522| [-6, -6], 0.182323227217| 
+----------------
+Step num: 400
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301935944291| [5, 5], 0.213223803354| [-6, -6], 0.182285797416| 
+----------------
+Step num: 401
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30187148357| [5, 5], 0.213183846186| [-6, -6], 0.182248367615| 
+----------------
+Step num: 402
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301807022849| [5, 5], 0.213143889018| [-6, -6], 0.182210937814| 
+----------------
+Step num: 403
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301742562127| [5, 5], 0.21310393185| [-6, -6], 0.182173508013| 
+----------------
+Step num: 404
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301678101406| [5, 5], 0.213063974682| [-6, -6], 0.182136078211| 
+----------------
+Step num: 405
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301613640685| [5, 5], 0.213024017514| [-6, -6], 0.18209864841| 
+----------------
+Step num: 406
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301549179964| [5, 5], 0.212984060346| [-6, -6], 0.182061218609| 
+----------------
+Step num: 407
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301484719242| [5, 5], 0.212944103178| [-6, -6], 0.182023788808| 
+----------------
+Step num: 408
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301420258521| [5, 5], 0.21290414601| [-6, -6], 0.181986359007| 
+----------------
+Step num: 409
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.3013557978| [5, 5], 0.212864188842| [-6, -6], 0.181948929206| 
+----------------
+Step num: 410
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301291337079| [5, 5], 0.212824231673| [-6, -6], 0.181911499404| 
+----------------
+Step num: 411
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301226876357| [5, 5], 0.212784274505| [-6, -6], 0.181874069603| 
+----------------
+Step num: 412
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301162415636| [5, 5], 0.212744317337| [-6, -6], 0.181836639802| 
+----------------
+Step num: 413
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301097954915| [5, 5], 0.212704360169| [-6, -6], 0.181799210001| 
+----------------
+Step num: 414
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.301033494194| [5, 5], 0.212664403001| [-6, -6], 0.1817617802| 
+----------------
+Step num: 415
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300969033472| [5, 5], 0.212624445833| [-6, -6], 0.181724350398| 
+----------------
+Step num: 416
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300904572751| [5, 5], 0.212584488665| [-6, -6], 0.181686920597| 
+----------------
+Step num: 417
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30084011203| [5, 5], 0.212544531497| [-6, -6], 0.181649490796| 
+----------------
+Step num: 418
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300775651309| [5, 5], 0.212504574329| [-6, -6], 0.181612060995| 
+----------------
+Step num: 419
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300711190587| [5, 5], 0.212464617161| [-6, -6], 0.181574631194| 
+----------------
+Step num: 420
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300646729866| [5, 5], 0.212424659993| [-6, -6], 0.181537201392| 
+----------------
+Step num: 421
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300582269145| [5, 5], 0.212384702824| [-6, -6], 0.181499771591| 
+----------------
+Step num: 422
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300517808424| [5, 5], 0.212344745656| [-6, -6], 0.18146234179| 
+----------------
+Step num: 423
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300453347702| [5, 5], 0.212304788488| [-6, -6], 0.181424911989| 
+----------------
+Step num: 424
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300388886981| [5, 5], 0.21226483132| [-6, -6], 0.181387482188| 
+----------------
+Step num: 425
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.30032442626| [5, 5], 0.212224874152| [-6, -6], 0.181350052387| 
+----------------
+Step num: 426
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300259965539| [5, 5], 0.212184916984| [-6, -6], 0.181312622585| 
+----------------
+Step num: 427
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300195504817| [5, 5], 0.212144959816| [-6, -6], 0.181275192784| 
+----------------
+Step num: 428
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300131044096| [5, 5], 0.212105002648| [-6, -6], 0.181237762983| 
+----------------
+Step num: 429
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300066583375| [5, 5], 0.21206504548| [-6, -6], 0.181200333182| 
+----------------
+Step num: 430
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.300002122654| [5, 5], 0.212025088312| [-6, -6], 0.181162903381| 
+----------------
+Step num: 431
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.299937661932| [5, 5], 0.211985131144| [-6, -6], 0.181125473579| 
+----------------
+Step num: 432
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.299873201211| [5, 5], 0.211945173975| [-6, -6], 0.181088043778| 
+----------------
+Step num: 433
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.29980874049| [5, 5], 0.211905216807| [-6, -6], 0.181050613977| 
+----------------
+Step num: 434
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.299744279769| [5, 5], 0.211865259639| [-6, -6], 0.181013184176| 
+----------------
+Step num: 435
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.299679819047| [5, 5], 0.211825302471| [-6, -6], 0.180975754375| 
+----------------
+Step num: 436
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.299615358326| [5, 5], 0.211785345303| [-6, -6], 0.180938324573| 
+----------------
+Step num: 437
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.299550897605| [5, 5], 0.211745388135| [-6, -6], 0.180900894772| 
+----------------
+Step num: 438
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.299486436884| [5, 5], 0.211705430967| [-6, -6], 0.180863464971| 
+----------------
+Step num: 439
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.299421976162| [5, 5], 0.211665473799| [-6, -6], 0.18082603517| 
+----------------
+Step num: 440
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.299357515441| [5, 5], 0.211625516631| [-6, -6], 0.180788605369| 
+----------------
+Step num: 441
+Real bindog loc: [0, 0]
+Sim bindog loc: [5, 5], [4, 4], 
+Bin loc / fill levels: [4, 4], 0.29929305472| [5, 5], 0.21
