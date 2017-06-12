@@ -261,7 +261,7 @@ if __name__ == '__main__':
 
 	rospy.init_node('Simulator')
 
-	pub = rospy.Publisher('row_goals', Float32, queue_size = 10)
+	pub = rospy.Publisher('row_goal', Float32, queue_size = 10)
 
 	row_locs = [[1,1],[2,2],[3,3]]
 	bin_locs = [[4,4],[5,5],[-6,-6]]
