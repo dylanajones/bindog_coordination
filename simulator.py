@@ -2,7 +2,8 @@
 
 import random, rospy
 
-from std_msgs.msg import String
+from bindog.msg import mcusensor
+from std_msgs.msg import Float32
 
 def manhattanDist(p1, p2):
   #This too
@@ -90,10 +91,8 @@ class real_bindog(object):
 		self.speed = 1
 
 	def pubGoalRow(self):
-		print "publishing?"
-		msg = String()
-		msg.data = str(self.target.loc)
-		print msg
+		msg = Float32()
+		msg.data = float(self.target.loc[0])
 		self.pub.publish(msg)
 
 class simulator(object):
@@ -253,17 +252,14 @@ class simulator(object):
 
 
 def callback(msg, args):
-	loc = msg.loc
+	loc = [msg.x, msg.y]
 	args[0].real_bindog.loc = loc
 
 if __name__ == '__main__':
 
 	rospy.init_node('Simulator')
 
-	pub = rospy.Publisher('row_goals', String, queue_size = 10)
-	msg = String()
-	msg.data = 'this is a test'
-	pub.publish(msg)
+	pub = rospy.Publisher('row_goals', Float32, queue_size = 10)
 
 	row_locs = [[1,1],[2,2],[3,3]]
 	bin_locs = [[4,4],[5,5],[-6,-6]]
@@ -275,7 +271,7 @@ if __name__ == '__main__':
 
 	sim = simulator(row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub, cord_method, 'test_file.txt')
 
-	sub = rospy.Subscriber('bindog_loc', String, callback, [sim])
+	sub = rospy.Subscriber('mcu2ros', mcusensor, callback, [sim])
 
 	rate = rospy.Rate(1)
 
