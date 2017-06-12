@@ -38,6 +38,8 @@ class bin(object):
 
 	def pickApples(self):
 		self.capacity -= self.picking_rate * self.efficiency
+		if self.capacity < 0:
+			self.capacity = 0
 
 
 class sim_bindog(object):
