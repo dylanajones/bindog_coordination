@@ -190,7 +190,15 @@ class simulator(object):
         return 0
 
     def replanningCord(self, idle_bots):
-        return 0
+        for bot in self.sim_bindogs:
+        	bot.status = 'idle'
+
+        self.real_bindog.status = 'idle'
+
+        for bin in self.bins:
+        	bin.bot_assigned = False
+
+        self.greedyCord(self.getIdleBots())
 
     def findBestBin(self, bot):
         best_score = float('inf')
