@@ -4,6 +4,7 @@ import random, rospy
 
 from bindog.msg import mcusensor
 from std_msgs.msg import Float32
+from std_msgs.msg import Bool
 
 def manhattanDist(p1, p2):
   #This too
@@ -41,6 +42,11 @@ class bin(object):
         if self.capacity < 0:
             self.capacity = 0
 
+class dummy_bin(object):
+
+	def __init__(self, loc):
+		self.loc = loc
+		self.capacity = -1
 
 class sim_bindog(object):
 
@@ -52,11 +58,19 @@ class sim_bindog(object):
         self.speed = 1
         self.real = False
 
-    def takeAction(self):
+    def takeAction(self, sim):
         x, y = self.loc
 
         if self.status != "idle":
             # Test if at the bin location
+            if x == self.target.loc[0] and y == self.target.loc[1]:
+            	if self.target.capacity == 0:
+            		sim.num_bins_collected += 1
+            		self.target.capacity = 1
+            		self.target = dummy_bin([self.target.loc[0], 0])
+            	else if self.target.capacity == -1:
+            		self.status = 'idle'
+
             if x == self.target.loc[0]:
                 if y > self.target.loc[1]:
                     new_y = y - self.speed
@@ -108,6 +122,7 @@ class simulator(object):
         self.sim_bindogs = []
         self.bins = []
         self.step_num = 0
+        self.num_bins_collected = 0
 
         self.cord_method = cord_method
 
@@ -128,7 +143,7 @@ class simulator(object):
             #print "doing coordination"
 
         for bot in self.sim_bindogs:
-            bot.takeAction()
+            bot.takeAction(self)
             #print "taking actions"
 
         for bin in self.bins:
@@ -260,6 +275,11 @@ def callback(msg, args):
     loc = [msg.x, msg.y]
     args[0].real_bindog.loc = loc
 
+def resetCallback(msg, args):
+    args[0].real_bindog.status = 'idle'
+    args[0].num_bins_collected += 1
+    args[0].real_bindog.target.capacity = 1
+
 if __name__ == '__main__':
 
     pub = rospy.Publisher('row_goal', Float32, latch = True, queue_size = 10)
@@ -278,9 +298,11 @@ if __name__ == '__main__':
 
     sub = rospy.Subscriber('mcu2ros', mcusensor, callback, [sim])
 
+    sub = rospy.Subscriber('bindog_reset', Bool, resetCallback, [sim])
+
     rospy.init_node('Simulator')
 
-    rate = rospy.Rate(1)
+    rate = rospy.Rate(10)
 
     while not rospy.is_shutdown():
         sim.step()
