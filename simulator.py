@@ -73,7 +73,7 @@ class sim_bindog(object):
                     self.target.bot_assigned = False
                     self.target = dummy_bin([0, 0])
                 elif self.target.capacity == 0 and self.update_count != 0:
-                	self.update_count -= 1
+                    self.update_count -= 1
                 elif self.target.capacity == -1:
                     self.status = 'idle'
                     self.update_count = 6
@@ -197,13 +197,13 @@ class simulator(object):
                 bot.pubGoalRow()
 
     def auctionCord(self, idle_bots):
-    	planning == True
-    	prev_idle = copy.deepcopy(idle_bots)
+        planning == True
+        prev_idle = copy.deepcopy(idle_bots)
 
-    	while planning:
-    		assignment = []
-    		for bot in idle_bots:
-    			best_bin, score = self.findBestBin(bot)
+        while planning:
+            assignment = []
+            for bot in idle_bots:
+                best_bin, score = self.findBestBin(bot)
                 assignment.append([bot, best_bin, score])
 
             assignment = findNonConflictPlan(assignment)
@@ -214,8 +214,8 @@ class simulator(object):
                 plan[0].status = "in use"
                 idle_bots.remove(plan[0])
 
-    		planning = not(idle_bots == [] or prev_idle == idle_bots)
-      		prev_idle = copy.deepcopy(idle_bots)
+            planning = not(idle_bots == [] or prev_idle == idle_bots)
+            prev_idle = copy.deepcopy(idle_bots)
 
 
     def replanningCord(self, idle_bots):
@@ -230,23 +230,22 @@ class simulator(object):
         self.auctionCord(self.getIdleBots())
 
     def findNonConflictPlan(self, plans):
-    
-    to_remove = []
+        to_remove = []
 
-    for i, plan in enumerate(plans):
-        for j in range(i+1,len(plans)):
-            if plans[j] != []:
-                if plan[1] == plans[j][1]: 
-                    if plan[2] <= plans[j][2]:
-                        to_remove.append(plans[j])
-                    else:
-                        to_remove.append(plan)
-    
-    for item in to_remove:
-        if item in plans:
-            plans.remove(item)
+        for i, plan in enumerate(plans):
+            for j in range(i+1,len(plans)):
+                if plans[j] != []:
+                    if plan[1] == plans[j][1]:
+                        if plan[2] <= plans[j][2]:
+                            to_remove.append(plans[j])
+                        else:
+                            to_remove.append(plan)
 
-    return plans
+        for item in to_remove:
+            if item in plans:
+                plans.remove(item)
+
+        return plans
 
     def findBestBin(self, bot):
         best_score = float('inf')
@@ -344,8 +343,8 @@ def resetCallback(msg, args):
     args[0].real_bindog.target.capacity = 1
 
 def stopCallback(msg, args):
-	print "Time to stop"
-	args[0].stop = True
+    print "Time to stop"
+    args[0].stop = True
 
 if __name__ == '__main__':
 
