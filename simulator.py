@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import random, rospy
+import random, rospy, copy
 
 from bindog.msg import mcusensor
 from std_msgs.msg import Float32
@@ -59,6 +59,7 @@ class sim_bindog(object):
         self.target = None
         self.speed = 6.4
         self.real = False
+        self.update_count = 6
 
     def takeAction(self, sim):
         x, y = self.loc
@@ -66,13 +67,16 @@ class sim_bindog(object):
         if self.status != "idle":
             # Test if at the bin location
             if x == self.target.loc[0] and y == self.target.loc[1]:
-                if self.target.capacity == 0:
+                if self.target.capacity == 0 and self.update_count == 0:
                     sim.num_bins_collected += 1
                     self.target.capacity = 1
                     self.target.bot_assigned = False
-                    self.target = dummy_bin([self.target.loc[0], 0])
+                    self.target = dummy_bin([0, 0])
+                elif self.target.capacity == 0 and self.update_count != 0:
+                	self.update_count -= 1
                 elif self.target.capacity == -1:
                     self.status = 'idle'
+                    self.update_count = 6
 
             if x == self.target.loc[0]:
                 if y > self.target.loc[1]:
@@ -127,6 +131,7 @@ class simulator(object):
         self.bins = []
         self.step_num = 0
         self.num_bins_collected = 0
+        self.stop = False
 
         self.cord_method = cord_method
 
@@ -170,7 +175,7 @@ class simulator(object):
 
     def greedyCord(self, idle_bots):
         for bot in idle_bots:
-            best_bin = self.findBestBin(bot)
+            best_bin, _ = self.findBestBin(bot)
             if best_bin is not None:
                 #print best_bin.loc
                 best_bin.bot_assigned = True
@@ -182,7 +187,7 @@ class simulator(object):
 
     def yaweiCord(self, idle_bots):
         for bot in idle_bots:
-            best_bin = self.findBestBinFull(bot)
+            best_bin, _ = self.findBestBinFull(bot)
 
             best_bin.bot_assigned = True
             bot.target = best_bin
@@ -192,7 +197,26 @@ class simulator(object):
                 bot.pubGoalRow()
 
     def auctionCord(self, idle_bots):
-        return 0
+    	planning == True
+    	prev_idle = copy.deepcopy(idle_bots)
+
+    	while planning:
+    		assignment = []
+    		for bot in idle_bots:
+    			best_bin, score = self.findBestBin(bot)
+                assignment.append([bot, best_bin, score])
+
+            assignment = findNonConflictPlan(assignment)
+
+            for plan in assignment:
+                plan[1].bot_assigned = True
+                plan[0].target = plan[1]
+                plan[0].status = "in use"
+                idle_bots.remove(plan[0])
+
+    		planning = not(idle_bots == [] or prev_idle == idle_bots)
+      		prev_idle = copy.deepcopy(idle_bots)
+
 
     def replanningCord(self, idle_bots):
         for bot in self.sim_bindogs:
@@ -203,7 +227,26 @@ class simulator(object):
         for bin in self.bins:
             bin.bot_assigned = False
 
-        self.greedyCord(self.getIdleBots())
+        self.auctionCord(self.getIdleBots())
+
+    def findNonConflictPlan(self, plans):
+    
+    to_remove = []
+
+    for i, plan in enumerate(plans):
+        for j in range(i+1,len(plans)):
+            if plans[j] != []:
+                if plan[1] == plans[j][1]: 
+                    if plan[2] <= plans[j][2]:
+                        to_remove.append(plans[j])
+                    else:
+                        to_remove.append(plan)
+    
+    for item in to_remove:
+        if item in plans:
+            plans.remove(item)
+
+    return plans
 
     def findBestBin(self, bot):
         best_score = float('inf')
@@ -218,7 +261,7 @@ class simulator(object):
                     best_score = score
                     best_bin = bin
 
-        return best_bin
+        return best_bin, best_score
 
     def findBestBinFull(self, bot):
         best_score = float('inf')
@@ -231,7 +274,7 @@ class simulator(object):
                     best_score = score
                     best_bin = bin
 
-        return best_bin
+        return best_bin, best_score
 
     def writeHeader(self):
         self.f.write("Start of Header\n")
@@ -252,6 +295,10 @@ class simulator(object):
             self.f.write(', ')
             self.f.write(str(bin.capacity))
             self.f.write('| ')
+        self.f.write("\n")
+
+        self.f.write("Coordination Method: ")
+        self.f.write(str(self.cord_method))
         self.f.write("\n")
 
         self.f.write("End of Header\n")
@@ -286,10 +333,6 @@ class simulator(object):
         self.f.write(str(self.num_bins_collected))
         self.f.write('\n')
 
-
-
-
-
 def callback(msg, args):
     loc = [msg.x, msg.y]
     args[0].real_bindog.loc = loc
@@ -300,11 +343,13 @@ def resetCallback(msg, args):
     args[0].num_bins_collected += 1
     args[0].real_bindog.target.capacity = 1
 
+def stopCallback(msg, args):
+	print "Time to stop"
+	args[0].stop = True
+
 if __name__ == '__main__':
 
     pub = rospy.Publisher('row_goal', Float32, latch = True, queue_size = 10)
-
-
 
     row_locs = [[.64,-6.23],[.67, -9.66],[.83,-13.58],[1.15, -17.27],[1.02, -20.87],[1.20,-24.59],[1.55,-28.37],[1.33, -31.94],[1.61,-35.47],[1.85,-39.08]]
     bin_locs = [[10.07, -4.54],[15.38, -8.03],[13.78,-11.92],[12.13,-15.75],[12.35,-19.15],[12.84,-22.89],[13.22,-26.53],[13.11,-30.07],[14.91,-33.71],[14.16,-37.55]]
@@ -323,10 +368,12 @@ if __name__ == '__main__':
 
     sub = rospy.Subscriber('bindog_reset', Bool, resetCallback, [sim])
 
+    sub = rospy.Subscriber('stop_time', Bool, stopCallback, [sim])
+
     rospy.init_node('Simulator')
 
-    rate = rospy.Rate(10)
+    rate = rospy.Rate(0.1)
 
-    while not rospy.is_shutdown():
+    while not rospy.is_shutdown() and not sim.stop:
         sim.step()
         rate.sleep()
