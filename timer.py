@@ -11,6 +11,6 @@ if __name__ == '__main__':
     rospy.init_node('Stopper')
 
     # num of minutes times number of seconds
-    rospy.sleep(30 * 60)
+    rospy.sleep(15 * 60)
 
     pub.publish(1)

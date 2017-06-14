@@ -148,7 +148,7 @@ class simulator(object):
         self.step_num += 1
         idle_bots = self.getIdleBots()
         if idle_bots != []:
-            self.greedyCord(idle_bots)
+            self.yaweiCord(idle_bots)
             #print "doing coordination"
 
         for bot in self.sim_bindogs:
@@ -188,16 +188,16 @@ class simulator(object):
     def yaweiCord(self, idle_bots):
         for bot in idle_bots:
             best_bin, _ = self.findBestBinFull(bot)
+            if best_bin is not None:
+                best_bin.bot_assigned = True
+                bot.target = best_bin
+                bot.status = "in use"
 
-            best_bin.bot_assigned = True
-            bot.target = best_bin
-            bot.status = "in use"
-
-            if bot.real:
-                bot.pubGoalRow()
+                if bot.real:
+                    bot.pubGoalRow(self)
 
     def auctionCord(self, idle_bots):
-        planning == True
+        planning = True
         prev_idle = copy.deepcopy(idle_bots)
 
         while planning:
@@ -361,7 +361,7 @@ if __name__ == '__main__':
     # 1 = greedy, 2 = yawei, 3 = auction, 4 = replanning
     cord_method = 1
 
-    sim = simulator(row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub, cord_method, 'test_file2.txt',bin_rows)
+    sim = simulator(row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub, cord_method, 'field_test_day2_yawei3.txt',bin_rows)
 
     sub = rospy.Subscriber('mcu2ros', mcusensor, callback, [sim])
 
