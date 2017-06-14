@@ -15,7 +15,7 @@ def manhattanDist(p1, p2):
   return res
 
 def getFill():
-    fill = random.gauss(.8, .1)
+    fill = random.gauss(.9, .1)
     if fill > 1:
         fill = 1
 
@@ -27,12 +27,14 @@ def getFill():
 
 class bin(object):
 
-    def __init__(self, loc, capacity = 1.0):
+    def __init__(self, loc, id, row, capacity = 1.0):
         self.loc = loc
         self.efficiency = .9 * random.random()*.2
         self.capacity = capacity
         self.bot_assigned = False
-        self.picking_rate = 1.0 / (30. * 60. * 1.)
+        self.picking_rate = 1.0 / (30. * 6. * 1.)
+        self.id = id
+        self.row = row
 
     def estimateTimeToFull(self):
         return self.capacity / self.picking_rate
@@ -44,9 +46,9 @@ class bin(object):
 
 class dummy_bin(object):
 
-	def __init__(self, loc):
-		self.loc = loc
-		self.capacity = -1
+    def __init__(self, loc):
+        self.loc = loc
+        self.capacity = -1
 
 class sim_bindog(object):
 
@@ -55,7 +57,7 @@ class sim_bindog(object):
         self.loc = loc
         self.status = "idle"
         self.target = None
-        self.speed = 1
+        self.speed = 6.4
         self.real = False
 
     def takeAction(self, sim):
@@ -64,12 +66,13 @@ class sim_bindog(object):
         if self.status != "idle":
             # Test if at the bin location
             if x == self.target.loc[0] and y == self.target.loc[1]:
-            	if self.target.capacity == 0:
-            		sim.num_bins_collected += 1
-            		self.target.capacity = 1
-            		self.target = dummy_bin([self.target.loc[0], 0])
-            	else if self.target.capacity == -1:
-            		self.status = 'idle'
+                if self.target.capacity == 0:
+                    sim.num_bins_collected += 1
+                    self.target.capacity = 1
+                    self.target.bot_assigned = False
+                    self.target = dummy_bin([self.target.loc[0], 0])
+                elif self.target.capacity == -1:
+                    self.status = 'idle'
 
             if x == self.target.loc[0]:
                 if y > self.target.loc[1]:
@@ -106,16 +109,17 @@ class real_bindog(object):
         self.real = True
         self.speed = 1
 
-    def pubGoalRow(self):
+    def pubGoalRow(self,sim):
         msg = Float32()
 
-        msg.data = float(self.target.loc[0])
+        msg.data = float(float(sim.row_locs[self.target.row][1]))
+        print msg.data
         for i in range(0,10):
             self.pub.publish(msg)
 
 class simulator(object):
 
-    def __init__(self, row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub, cord_method, file_name):
+    def __init__(self, row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub, cord_method, file_name, bin_rows):
         self.row_locs = row_locs
         self.bin_locs = bin_locs
         self.real_bindog = real_bindog(bindog_loc, pub)
@@ -130,7 +134,7 @@ class simulator(object):
             self.sim_bindogs.append(sim_bindog(sim_bindog_locs[i], i))
 
         for i in range(0,len(self.bin_locs)):
-            self.bins.append(bin(self.bin_locs[i], getFill()))
+            self.bins.append(bin(self.bin_locs[i], i, bin_rows[i], getFill()))
 
         self.f = open(file_name, 'w')
         self.writeHeader()
@@ -150,7 +154,7 @@ class simulator(object):
             bin.pickApples()
 
         self.writeStep()
-        print self.real_bindog.loc
+        #print self.real_bindog.loc
 
     def getIdleBots(self):
         idle_bots = []
@@ -167,13 +171,14 @@ class simulator(object):
     def greedyCord(self, idle_bots):
         for bot in idle_bots:
             best_bin = self.findBestBin(bot)
-            print best_bin.loc
-            best_bin.bot_assigned = True
-            bot.target = best_bin
-            bot.status = "in use"
+            if best_bin is not None:
+                #print best_bin.loc
+                best_bin.bot_assigned = True
+                bot.target = best_bin
+                bot.status = "in use"
 
-            if bot.real:
-                bot.pubGoalRow()
+                if bot.real:
+                    bot.pubGoalRow(self)
 
     def yaweiCord(self, idle_bots):
         for bot in idle_bots:
@@ -191,12 +196,12 @@ class simulator(object):
 
     def replanningCord(self, idle_bots):
         for bot in self.sim_bindogs:
-        	bot.status = 'idle'
+            bot.status = 'idle'
 
         self.real_bindog.status = 'idle'
 
         for bin in self.bins:
-        	bin.bot_assigned = False
+            bin.bot_assigned = False
 
         self.greedyCord(self.getIdleBots())
 
@@ -273,7 +278,13 @@ class simulator(object):
             self.f.write(', ')
             self.f.write(str(bin.capacity))
             self.f.write('| ')
+            self.f.write(str(bin.bot_assigned))
+            self.f.write('| ')
         self.f.write("\n")
+
+        self.f.write("Bins Collected: ")
+        self.f.write(str(self.num_bins_collected))
+        self.f.write('\n')
 
 
 
@@ -284,6 +295,7 @@ def callback(msg, args):
     args[0].real_bindog.loc = loc
 
 def resetCallback(msg, args):
+    print "message recieved"
     args[0].real_bindog.status = 'idle'
     args[0].num_bins_collected += 1
     args[0].real_bindog.target.capacity = 1
@@ -294,15 +306,18 @@ if __name__ == '__main__':
 
 
 
-    row_locs = [[1,1],[2,2],[3,3]]
-    bin_locs = [[4,4],[5,5],[-6,-6]]
+    row_locs = [[.64,-6.23],[.67, -9.66],[.83,-13.58],[1.15, -17.27],[1.02, -20.87],[1.20,-24.59],[1.55,-28.37],[1.33, -31.94],[1.61,-35.47],[1.85,-39.08]]
+    bin_locs = [[10.07, -4.54],[15.38, -8.03],[13.78,-11.92],[12.13,-15.75],[12.35,-19.15],[12.84,-22.89],[13.22,-26.53],[13.11,-30.07],[14.91,-33.71],[14.16,-37.55]]
+    #bin_locs = [[13.78,-11.92]]
     sim_bindog_locs = [[0,0],[0,0]]
     bindog_loc = [0,0]
+    bin_rows = [0,1,2,3,4,5,6,7,8,9]
+    #bin_rows = [2]
 
     # 1 = greedy, 2 = yawei, 3 = auction, 4 = replanning
     cord_method = 1
 
-    sim = simulator(row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub, cord_method, 'test_file.txt')
+    sim = simulator(row_locs, bin_locs, sim_bindog_locs, bindog_loc, pub, cord_method, 'test_file2.txt',bin_rows)
 
     sub = rospy.Subscriber('mcu2ros', mcusensor, callback, [sim])
 
